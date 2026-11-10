@@ -4,7 +4,7 @@
 
 **청소년교육 × AI 활용 × 바이브코딩**
 
-청소년의 일상과 배움에 도움이 되는 아이디어를 기획하고, AI와 함께 실제로 만들어 봅니다.  
+일상과 배움에 도움이 되는 아이디어를 기획하고, AI와 함께 실제로 만들어 봅니다.  
 만드는 과정에서 배운 것은 글과 콘텐츠로 기록합니다.
 
 [Portfolio](https://jinwoo-portfolio-navy.vercel.app/) · [Blog](https://blog.naver.com/jinus_02) · [Instagram](https://www.instagram.com/jinus_02/)
